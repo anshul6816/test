@@ -1,0 +1,19 @@
+
+-----------------TO CREATE------------------------------------
+POST: http://localhost:9092/person
+
+
+-----------------GET ALL PERSON IN PAGE-----------------------
+http://localhost:9092/person/page
+http://localhost:9092/person/page?pageno=1
+
+
+-----------------GET ALL PERSON IN PAGE USING DATE OF JOINING-----------------
+http://localhost:9092/person/page/dateOfJoining?from=2000-01-01&to=2021-01-01
+http://localhost:9092/person/page/dateOfJoining?from=2000-01-01&to=2021-01-01&sortby=branch
+
+-----------------UPDATE USING ID-------------------------------
+http://localhost:9092/person/{id}
+
+-----------------DELETE USING BRANCH--------------------------
+http://localhost:9092/person/{branch}

@@ -1,0 +1,43 @@
+{   "id":"3",
+    "email":"tejas@gmail.com",
+    "firstName":"tejas",
+    "lastName":"singh",
+    "branch":"mech",
+    "dob":"1994-11-21",
+    "dateOfJoining":"2021-05-14"
+}
+
+{   "id":"2",
+     "email":"tushar@gmail.com",
+     "firstName":"tushar",
+     "lastName":"patle",
+     "branch":"mech",
+     "dob":"1994-11-21",
+     "dateOfJoining":"1994-11-21"
+}
+
+{   "id":"9",
+     "email":"A@gmail.com",
+     "firstName":"A",
+     "lastName":"B",
+     "branch":"ece",
+     "dob":"1998-04-04",
+     "dateOfJoining":"2000-11-21"
+}
+
+{   "id":"1",
+     "email":"C@gmail.com",
+     "firstName":"C",
+     "lastName":"D",
+     "branch":"cs",
+     "dob":"1994-11-21",
+     "dateOfJoining":"2008-05-20"
+}
+{   "id":"5",
+     "email":"D@gmail.com",
+     "firstName":"D",
+     "lastName":"D",
+     "branch":"cs",
+     "dob":"1994-11-21",
+     "dateOfJoining":"1992-05-20"
+}
